@@ -8,9 +8,8 @@ In alphabetical order:
 | --- | --- | --- | --- |
 | Alois Reitbauer | Dynatrace | yes | [aloisreitbauer](https://github.com/aloisreitbauer) |
 | Constance Caramanolis | Splunk / Omnition | yes | [ccaraman](https://github.com/ccaraman) |
-| Daniel Prata Almeida | Spotify | - | [skateordie](https://github.com/skateordie) |
-| Edward Muller | Salesforce / Heroku | - | [freeformz](https://github.com/freeformz) |
-| Hungai Kevin Amuhinda | OrijTech | - | [hungaikev](https://github.com/hungaikev) |
+| Daniel Prata Almeida | Spotify | yes | [skateordie](https://github.com/skateordie) |
+| Edward Muller | Salesforce / Heroku | yes | [freeformz](https://github.com/freeformz) |
 | Ilan Rabinovitch | Datadog | yes | [irabinovitch](https://github.com/irabinovitch) |
 | Kevin Chu | New Relic | - | [kbychu](https://github.com/kbychu) |
 | Liz Fong-Jones | Honeycomb | yes | [lizthegrey](https://github.com/lizthegrey) |
