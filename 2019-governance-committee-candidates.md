@@ -1,6 +1,6 @@
 # 2019 OpenTelemetry Governance Committee Candidates
 
-## The List
+## List of candidates
 
 In alphabetical order:
 
@@ -16,6 +16,8 @@ In alphabetical order:
 - [Steven Le Roux](#Steven-Le-Roux)
 - [Ted Young](#Ted-Young)
 
+---
+
 ### Alois Reitbauer
 
 - Company: Dynatrace
@@ -27,6 +29,8 @@ career. Alois is the co-chair of the W3C Web Performance working group and
 co-chair of the CNCF application deliver sig (which will also closely work with
 the opentelemetry team). He also leads the open source initiatives at Dynatrace
 and is a regular conference speaker, blogger and author.
+
+---
 
 ### Constance Caramanolis
 
@@ -45,6 +49,8 @@ the community is what made it so strong. I want to bring the same philosophies
 to OpenTelemetry and grow the community and project into the one we've all
 invested so much in building.
 
+---
+
 ### Daniel Prata Almeida
 
 - Company: Spotify
@@ -58,6 +64,8 @@ performance improvement experiences. I'd like to help the OpenTelemetry project
 mature, graduate on CNCF and become a distinguished solution for high-quality
 telemetry.
 
+---
+
 ### Edward Muller
 
 - Company: Salesforce / Heroku
@@ -69,6 +77,8 @@ work on the OpenTelemetry go client. He is one of the foremost experts on the go
 language at Heroku, and is the primary author of the [Heroku Go buildpack](https://github.com/heroku/heroku-buildpack-go). He has
 made contributions to both [golang](https://github.com/golang/go/commits?author=freeformz) and [go dep](https://github.com/golang/dep/commits?author=freeformz). Ed is involved in ongoing
 telemetry projects at Heroku.
+
+---
 
 ### Ilan Rabinovitch
 
@@ -88,6 +98,8 @@ at organizations such as Ooyala and Edmunds.com.
 He's active in the wider open source and DevOps communities, including
 co-founding events such as SCALE, Texas Linux Fest, and DevOpsDays LA.
 
+---
+
 ### Liz Fong-Jones
 
 ![Liz Fong-Jones photo](static/liz_headshot.jpg)
@@ -102,6 +114,8 @@ and would be a strong, positive force on the OpenTelemetry Governance Committee.
 Liz has been collecting field feedback and bringing it back to the community and
 is developing the OpenTelemetry workshop that will be given in early November at
 Velocity, Berlin.
+
+---
 
 ### Luis Mineiro
 
@@ -121,6 +135,8 @@ I am personally very interested in contributing some time and effort to make
 OpenTelemetry a success, not only for Zalando but for the many other similar
 organizations out there.
 
+---
+
 ### Mark Carter
 
 - Company: AWS
@@ -139,6 +155,8 @@ As an open source contributor and team lead, he launched, contributed to and
 drove projects including ISTIO.io , FluentD, CollectD,  OpenMetrics, Prometheus
 Stackdriver integration, Openstack and Grpc.
 
+---
+
 ### Morgan James McLean
 
 ![Morgan James McLean photo](static/morgan-james-mclean.jpg)
@@ -155,6 +173,8 @@ Novotny to establish the seed committee and initial project scope, and hosts the
 monthly community meetings. He regularly speaks about OpenTelemetry at
 conferences, including the project announcement at Kubecon, and is also the
 co-creator and committee chair of the W3C TraceContext specification.
+
+---
 
 ### Steven Le Roux
 
@@ -186,6 +206,8 @@ which aims to expose its products metrics in a standard exposition format to
 ease adoption (Currently our product metrics are available via
 Graphite/OpenTSDB/Warp10/Influx and PromQL APIs).
 
+---
+
 ### Ted Young
 
 ![Ted Young photo](static/ted-young.jpg)
@@ -199,6 +221,8 @@ facilitation. In fact, facilitating the merger of OpenCensus and OpenTracing is
 one of my proudest accomplishments! I would like to join the OpenTelemetry
 governance committee, as the position aligns well with the role that I currently
 perform for the OpenTelemetry community.
+
+---
 
 ## Ratification
 
