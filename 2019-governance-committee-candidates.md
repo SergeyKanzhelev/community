@@ -29,7 +29,7 @@ and is a regular conference speaker, blogger and author.
 
 ### Constance Caramanolis
 
-Splunk / Omnition 
+Splunk / Omnition
 [ccaraman](https://github.com/ccaraman)
 
 I am Senior Software engineer at Omnition, now Splunk, contributing to
@@ -71,7 +71,7 @@ telemetry projects at Heroku.
 
 ### Ilan Rabinovitch
 
-- Company: Datadog 
+- Company: Datadog
 - GitHub: [irabinovitch](https://github.com/irabinovitch)
 
 Ilan Rabinovitch leads the community and product teams at Datadog. He spends his
@@ -90,7 +90,8 @@ co-founding events such as SCALE, Texas Linux Fest, and DevOpsDays LA.
 ### Liz Fong-Jones
 
 ![Liz Fong-Jones photo](static/liz_headshot.jpg)
-- Company: Honeycomb 
+
+- Company: Honeycomb
 - GitHub: [lizthegrey](https://github.com/lizthegrey)
 
 Liz is very involved in the OpenTelemetry community. She co-hosts the
@@ -105,7 +106,7 @@ Velocity, Berlin.
 
 ![Luis Mineiro photo](static/luis-mineiro_mugshot.jpg)
 
-- Company: Zalando 
+- Company: Zalando
 - GitHub: [lmineiro](https://github.com/lmineiro)
 
 I'm currently the Head of SRE at Zalando and have been working with
@@ -114,7 +115,7 @@ of the Zalando e-Commerce platform. Zalando is an enthusiastic adopter of many
 CNCF technologies namely Kubernetes and OpenTracing. Zalando has been leveraging
 tracing in new ways, namely improving the on-call health of the so-called
 micro-service organizations
-(https://srecon19emea.sched.com/event/ScjD/are-we-all-on-the-same-page-lets-fix-that).
+(<https://srecon19emea.sched.com/event/ScjD/are-we-all-on-the-same-page-lets-fix-that>).
 I am personally very interested in contributing some time and effort to make
 OpenTelemetry a success, not only for Zalando but for the many other similar
 organizations out there.
@@ -140,38 +141,37 @@ co-creator and committee chair of the W3C TraceContext specification.
 
 ![Steven Le Roux photo](static/steven-le-roux.jpg)
 
-- Company: OVHcloud 
+- Company: OVHcloud
 - GitHub: [StevenLeRoux](https://github.com/StevenLeRoux)
 
 I work on the Time Series landscape since a while. My first contribution was an
 intent for a exposition format from 2013
-https://github.com/StevenLeRoux/TimeSeries_Format_Specification. I've directly
-and indirectly worked on the Warp10 TSDB 
-https://github.com/senx/warp10-platform/ and been in charge of observability
+<https://github.com/StevenLeRoux/TimeSeries_Format_Specification>. I've directly
+and indirectly worked on the Warp10 TSDB
+<https://github.com/senx/warp10-platform/> and been in charge of observability
 at OVH (a major european cloud provider) with few public contributions:
 
-- blog post : https://www.ovh.com/blog/monitoring-guidelines-for-ovh-observability/
-- https://github.com/ovh/noderig
-- https://github.com/ovh/beamium
+- blog post : <https://www.ovh.com/blog/monitoring-guidelines-for-ovh-observability/>
+- <https://github.com/ovh/noderig>
+- <https://github.com/ovh/beamium>
 
-I think this journey can be resumed in these slides :
-https://fr.slideshare.net/StevenLeRoux1/metrics-spark-meetup.  Lately we've
+I think this journey can be resumed in these slides:
+<https://fr.slideshare.net/StevenLeRoux1/metrics-spark-meetup>.  Lately we've
 created TSL (Time Series Language) that we think could be the SQL for Time
 Series (metrics, logs and tracing) and we would love to contribute it.
-https://github.com/ovh/tsl.
+<https://github.com/ovh/tsl>.
 
 OVH is a Cloud provider and my nomination would serve both the community for
 useful and quality tools and APIs, and also I would represent the cloud provider
 which aims to expose its products metrics in a standard exposition format to
 ease adoption (Currently our product metrics are available via
-Graphite/OpenTSDB/Warp10/Influx and PromQL APIs). 
+Graphite/OpenTSDB/Warp10/Influx and PromQL APIs).
 
-
-### Ted Young 
+### Ted Young
 
 ![Ted Young photo](static/ted-young.jpg)
 
-- Company: LightStep 
+- Company: LightStep
 - GitHub: [tedsuo](https://github.com/tedsuo)
 
 I’ve been part of the OpenTracing leadership team for the past 2.5 years. My
@@ -181,6 +181,9 @@ one of my proudest accomplishments! I would like to join the OpenTelemetry
 governance committee, as the position aligns well with the role that I currently
 perform for the OpenTelemetry community.
 
+## Ratification
+
+Not ratified members:
 
 | Name | Affiliation | Ratified? | GitHub |
 | --- | --- | --- | --- |
@@ -188,10 +191,7 @@ perform for the OpenTelemetry community.
 | Mark Carter | AWS | - | [markcartertm](https://github.com/markcartertm) |
 | Vinod Vydier | New Relic / Independent | - | [vvydier](https://github.com/vvydier) |
 
-## Ratification
-
 If you are a [member of
 standing](https://github.com/open-telemetry/community/blob/master/governance-charter.md#members-of-standing)
 in the OpenTelemetry organization, please ratify one or more of these
 candidates via [this form](https://forms.gle/3nrPt9HTsNBFdeku7). Thank you!
-
