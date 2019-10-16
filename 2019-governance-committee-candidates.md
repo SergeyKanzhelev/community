@@ -123,8 +123,8 @@ organizations out there.
 
 ### Mark Carter
 
-Company: AWS
-GitHub: [markcartertm](https://github.com/markcartertm)
+- Company: AWS
+- GitHub: [markcartertm](https://github.com/markcartertm)
 
 Mark Carter is an entrepreneur, Software executive. Industry and open source thought leader.
 In his 25 years career mark held senior engineering and product leadership
