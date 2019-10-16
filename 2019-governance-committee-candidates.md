@@ -11,6 +11,7 @@ In alphabetical order:
 - [Ilan Rabinovitch](#Ilan-Rabinovitch)
 - [Liz Fong-Jones](#Liz-Fong-Jones)
 - [Luis Mineiro](#Luis-Mineiro)
+- [Mark Carter](#Mark-Carter)
 - [Morgan James McLean](#Morgan-James-McLean)
 - [Steven Le Roux](#Steven-Le-Roux)
 - [Ted Young](#Ted-Young)
@@ -120,6 +121,24 @@ I am personally very interested in contributing some time and effort to make
 OpenTelemetry a success, not only for Zalando but for the many other similar
 organizations out there.
 
+### Mark Carter
+
+Company: AWS
+GitHub: [markcartertm](https://github.com/markcartertm)
+
+Mark Carter is an entrepreneur, Software executive. Industry and open source thought leader.
+In his 25 years career mark held senior engineering and product leadership
+positions at Google, Microsoft, Amazon, Tesla and VMware among others.
+
+Mark co-founded 3 successful startups and had led transformative projects in Big
+Data, Distributed systems, IOT, Machine learning, Cloud, SRE & Observability.
+Mark was the team lead for monitoring and logging at VMware and For all SRE
+tooling for Google.
+
+As an open source contributor and team lead, he launched, contributed to and
+drove projects including ISTIO.io , FluentD, CollectD,  OpenMetrics, Prometheus
+Stackdriver integration, Openstack and Grpc.
+
 ### Morgan James McLean
 
 ![Morgan James McLean photo](static/morgan-james-mclean.jpg)
@@ -188,7 +207,6 @@ Not ratified members:
 | Name | Affiliation | Ratified? | GitHub |
 | --- | --- | --- | --- |
 | Kevin Chu | New Relic | - | [kbychu](https://github.com/kbychu) |
-| Mark Carter | AWS | - | [markcartertm](https://github.com/markcartertm) |
 | Vinod Vydier | New Relic / Independent | - | [vvydier](https://github.com/vvydier) |
 
 If you are a [member of
