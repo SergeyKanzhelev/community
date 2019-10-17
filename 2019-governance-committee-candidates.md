@@ -9,6 +9,7 @@ In alphabetical order:
 - [Daniel Prata Almeida](#Daniel-Prata-Almeida)
 - [Edward Muller](#Edward-Muller)
 - [Ilan Rabinovitch](#Ilan-Rabinovitch)
+- [Kevin Chu](#Kevin-Chu)
 - [Liz Fong-Jones](#Liz-Fong-Jones)
 - [Luis Mineiro](#Luis-Mineiro)
 - [Mark Carter](#Mark-Carter)
@@ -97,6 +98,21 @@ at organizations such as Ooyala and Edmunds.com.
 
 He's active in the wider open source and DevOps communities, including
 co-founding events such as SCALE, Texas Linux Fest, and DevOpsDays LA.
+
+---
+
+### Kevin Chu
+
+![Kevin Chu](static/kchu.jpeg)
+
+- Company: New Relic
+- GitHub: [kbychu](https://github.com/kbychu)
+
+Hello! I am a product manager at New Relic. New Relic is committed to engaging
+the open source community and fostering the development of open standards in the
+application performance monitoring space. OpenTelemetry is critical for
+capturing the needed telemetry for observability platforms and I would love to
+take part in contributing to the project.
 
 ---
 
@@ -223,17 +239,3 @@ governance committee, as the position aligns well with the role that I currently
 perform for the OpenTelemetry community.
 
 ---
-
-## Ratification
-
-Not ratified members:
-
-| Name | Affiliation | Ratified? | GitHub |
-| --- | --- | --- | --- |
-| Kevin Chu | New Relic | - | [kbychu](https://github.com/kbychu) |
-| Vinod Vydier | New Relic / Independent | - | [vvydier](https://github.com/vvydier) |
-
-If you are a [member of
-standing](https://github.com/open-telemetry/community/blob/master/governance-charter.md#members-of-standing)
-in the OpenTelemetry organization, please ratify one or more of these
-candidates via [this form](https://forms.gle/3nrPt9HTsNBFdeku7). Thank you!
