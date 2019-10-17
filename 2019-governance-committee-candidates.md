@@ -239,3 +239,16 @@ governance committee, as the position aligns well with the role that I currently
 perform for the OpenTelemetry community.
 
 ---
+
+## Ratification
+
+Not ratified members:
+
+| Name | Affiliation | Ratified? | GitHub |
+| --- | --- | --- | --- |
+| Vinod Vydier | New Relic / Independent | - | [vvydier](https://github.com/vvydier) |
+
+If you are a [member of
+standing](https://github.com/open-telemetry/community/blob/master/governance-charter.md#members-of-standing)
+in the OpenTelemetry organization, please ratify one or more of these
+candidates via [this form](https://forms.gle/3nrPt9HTsNBFdeku7). Thank you!
