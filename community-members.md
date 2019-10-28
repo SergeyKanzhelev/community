@@ -1,20 +1,23 @@
-# The original list of maintainers
+# The list of maintainers
 
 ***This document is work in progress***
 
 This is an original list of maintainers to bootstrap the effort. Official docs
 on the process of becoming a contributor or maintainer will be published later.
 
-## Admins
+## Governance committee
 
-This is a group of people, who are currently selected or will be voted as a
-board members as well as CNCF representatives helping with project organization.
+OpenTelemetry Governance committee members:
 
-- [Ben Sigelman](https://github.com/bhs), LightStep
-- [Bogdan Drutu](https://github.com/BogdanDrutu), Google
-- [Sarah Novotny](https://github.com/SarahNovotny), Microsoft
-- [Sergey Kanzhelev](https://github.com/SergeyKanzhelev), Microsoft
-- [Yuri Shkuro](https://github.com/yurishkuro), Uber
+- [Ben Sigelman](https://github.com/bhs), LightStep, till October 2021
+- [Bogdan Drutu](https://github.com/BogdanDrutu), Google, till October 2021
+- [Constance Caramanolis](https://github.com/ccaraman), Splunk, till October 2021
+- [Liz Fong-Jones](https://github.com/lizthegrey), Honeycomb, , till October 2020
+- [Morgan James McLean](https://github.com/mtwo), Google, till October 2020
+- [Sarah Novotny](https://github.com/SarahNovotny), Microsoft, till October 2021
+- [Sergey Kanzhelev](https://github.com/SergeyKanzhelev), Microsoft, till October 2021
+- [Ted Young](https://github.com/tedsuo), LightStep, till October 2021
+- [Yuri Shkuro](https://github.com/yurishkuro), Uber, till October 2021
 
 ## Specifications and Proto
 
